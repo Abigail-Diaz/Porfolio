@@ -1,0 +1,22 @@
+body{
+    font-family:  "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to top, rgb(0, 2, 14), rgb(21, 24, 196));
+    color: white;
+}
+
+
+
+h2{
+    color: #fcfcfc;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+
+li a{
+    color: #641313;
+    text-decoration: none;
+}
